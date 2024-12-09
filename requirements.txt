@@ -1,4 +1,4 @@
-django>=1.5.1
+django>=4.2.17
 django-environ>=0.3.0
 django-jsonfield2==15.06.08
 django-enumfield==1.2.1
